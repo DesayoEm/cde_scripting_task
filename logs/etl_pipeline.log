@@ -1,0 +1,618 @@
+[2025-09-07 15:41:07] STEP: Starting Complete ETL Pipeline
+[2025-09-07 15:41:07] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:41:07] Creatiing directory 'data/raw'
+[2025-09-07 15:41:08] Created 'data/raw' directory.
+[2025-09-07 15:41:08] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:41:08] Using curl for download...
+[2025-09-07 15:41:08] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:41:08] Creatiing directory 'data/transformed'
+[2025-09-07 15:41:08] Created 'data/transformed' directory.
+[2025-09-07 15:41:08] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:41:08] ERROR: Raw file not found: [2025-09-07 15:41:07] Creatiing directory 'data/raw'
+[2025-09-07 15:41:08] Created 'data/raw' directory.
+[2025-09-07 15:41:08] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:41:08] Using curl for download...
+[2025-09-07 15:41:08] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:41:08] Creatiing directory 'data/gold'
+[2025-09-07 15:41:08] Created 'data/gold' directory.
+[2025-09-07 15:41:08] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:41:08] ERROR: Transformed file not found: [2025-09-07 15:41:08] Creatiing directory 'data/transformed'
+[2025-09-07 15:41:08] Created 'data/transformed' directory.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:41:08] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:41:07] Creatiing directory 'data/raw'
+[2025-09-07 15:41:08] Created 'data/raw' directory.
+[2025-09-07 15:41:08] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:41:08] Using curl for download...
+[2025-09-07 15:41:08] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:41:08] ERROR: Raw file not found: [2025-09-07 15:41:07] Creatiing directory 'data/raw'
+[2025-09-07 15:41:08] Created 'data/raw' directory.
+[2025-09-07 15:41:08] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:41:08] Using curl for download...
+[2025-09-07 15:41:08] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:41:08] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:41:08] ETL Pipeline completed successfully at Sun Sep  7 15:41:08 BST 2025
+[2025-09-07 15:42:15] STEP: Starting Complete ETL Pipeline
+[2025-09-07 15:42:15] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:42:15] Creatiing directory 'data/raw'
+[2025-09-07 15:42:15] 'data/raw' directory already exists.
+[2025-09-07 15:42:15] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:15] Using curl for download...
+[2025-09-07 15:42:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:15] Creatiing directory 'data/transformed'
+[2025-09-07 15:42:15] 'data/transformed' directory already exists.
+[2025-09-07 15:42:15] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:42:15] ERROR: Raw file not found: [2025-09-07 15:42:15] Creatiing directory 'data/raw'
+[2025-09-07 15:42:15] 'data/raw' directory already exists.
+[2025-09-07 15:42:15] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:15] Using curl for download...
+[2025-09-07 15:42:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:15] Creatiing directory 'data/gold'
+[2025-09-07 15:42:15] 'data/gold' directory already exists.
+[2025-09-07 15:42:15] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:42:15] ERROR: Transformed file not found: [2025-09-07 15:42:15] Creatiing directory 'data/transformed'
+[2025-09-07 15:42:15] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:42:15] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:42:15] Creatiing directory 'data/raw'
+[2025-09-07 15:42:15] 'data/raw' directory already exists.
+[2025-09-07 15:42:15] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:15] Using curl for download...
+[2025-09-07 15:42:15] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:42:15] ERROR: Raw file not found: [2025-09-07 15:42:15] Creatiing directory 'data/raw'
+[2025-09-07 15:42:15] 'data/raw' directory already exists.
+[2025-09-07 15:42:15] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:15] Using curl for download...
+[2025-09-07 15:42:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:15] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:42:15] ETL Pipeline completed successfully at Sun Sep  7 15:42:15 BST 2025
+[2025-09-07 15:42:46] STEP: Starting Complete ETL Pipeline
+[2025-09-07 15:42:46] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:42:46] Creatiing directory 'data/raw'
+[2025-09-07 15:42:46] 'data/raw' directory already exists.
+[2025-09-07 15:42:46] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:46] Using curl for download...
+[2025-09-07 15:42:46] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:46] Creatiing directory 'data/transformed'
+[2025-09-07 15:42:46] 'data/transformed' directory already exists.
+[2025-09-07 15:42:46] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:42:46] ERROR: Raw file not found: [2025-09-07 15:42:46] Creatiing directory 'data/raw'
+[2025-09-07 15:42:46] 'data/raw' directory already exists.
+[2025-09-07 15:42:46] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:46] Using curl for download...
+[2025-09-07 15:42:46] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:46] Creatiing directory 'data/gold'
+[2025-09-07 15:42:46] 'data/gold' directory already exists.
+[2025-09-07 15:42:46] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:42:46] ERROR: Transformed file not found: [2025-09-07 15:42:46] Creatiing directory 'data/transformed'
+[2025-09-07 15:42:46] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:42:46] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:42:46] Creatiing directory 'data/raw'
+[2025-09-07 15:42:46] 'data/raw' directory already exists.
+[2025-09-07 15:42:46] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:46] Using curl for download...
+[2025-09-07 15:42:46] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:42:46] ERROR: Raw file not found: [2025-09-07 15:42:46] Creatiing directory 'data/raw'
+[2025-09-07 15:42:46] 'data/raw' directory already exists.
+[2025-09-07 15:42:46] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:42:46] Using curl for download...
+[2025-09-07 15:42:46] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:42:46] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:42:46] ETL Pipeline completed successfully at Sun Sep  7 15:42:46 BST 2025
+[2025-09-07 15:53:14] STEP: Starting ETL Pipeline
+[2025-09-07 15:53:14] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:53:14] Creatiing directory 'data/raw'
+[2025-09-07 15:53:14] 'data/raw' directory already exists.
+[2025-09-07 15:53:14] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+[2025-09-07 15:53:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:53:15] Creatiing directory 'data/transformed'
+[2025-09-07 15:53:15] 'data/transformed' directory already exists.
+[2025-09-07 15:53:15] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:53:15] ERROR: Raw file not found: [2025-09-07 15:53:14] Creatiing directory 'data/raw'
+[2025-09-07 15:53:14] 'data/raw' directory already exists.
+[2025-09-07 15:53:14] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+CURL EXIT CODE: 3
+[2025-09-07 15:53:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:53:15] Creatiing directory 'data/gold'
+[2025-09-07 15:53:15] 'data/gold' directory already exists.
+[2025-09-07 15:53:15] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:53:15] ERROR: Transformed file not found: [2025-09-07 15:53:15] Creatiing directory 'data/transformed'
+[2025-09-07 15:53:15] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:53:15] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:53:14] Creatiing directory 'data/raw'
+[2025-09-07 15:53:14] 'data/raw' directory already exists.
+[2025-09-07 15:53:14] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+CURL EXIT CODE: 3
+[2025-09-07 15:53:15] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:53:15] ERROR: Raw file not found: [2025-09-07 15:53:14] Creatiing directory 'data/raw'
+[2025-09-07 15:53:14] 'data/raw' directory already exists.
+[2025-09-07 15:53:14] Starting CSV download from: 'https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv'
+CURL EXIT CODE: 3
+[2025-09-07 15:53:15] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:53:15] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:53:15] ETL Pipeline completed successfully at Sun Sep  7 15:53:15 BST 2025
+[2025-09-07 15:54:20] STEP: Starting ETL Pipeline
+[2025-09-07 15:54:20] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:54:20] Creatiing directory 'data/raw'
+[2025-09-07 15:54:20] 'data/raw' directory already exists.
+[2025-09-07 15:54:21] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:54:21] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:54:21] Creatiing directory 'data/transformed'
+[2025-09-07 15:54:21] 'data/transformed' directory already exists.
+[2025-09-07 15:54:21] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:54:21] ERROR: Raw file not found: [2025-09-07 15:54:20] Creatiing directory 'data/raw'
+[2025-09-07 15:54:20] 'data/raw' directory already exists.
+[2025-09-07 15:54:21] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:54:21] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:54:21] Creatiing directory 'data/gold'
+[2025-09-07 15:54:21] 'data/gold' directory already exists.
+[2025-09-07 15:54:21] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:54:21] ERROR: Transformed file not found: [2025-09-07 15:54:21] Creatiing directory 'data/transformed'
+[2025-09-07 15:54:21] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:54:21] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:54:20] Creatiing directory 'data/raw'
+[2025-09-07 15:54:20] 'data/raw' directory already exists.
+[2025-09-07 15:54:21] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:54:21] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:54:21] ERROR: Raw file not found: [2025-09-07 15:54:20] Creatiing directory 'data/raw'
+[2025-09-07 15:54:20] 'data/raw' directory already exists.
+[2025-09-07 15:54:21] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:54:21] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:54:21] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:54:21] ETL Pipeline completed successfully at Sun Sep  7 15:54:21 BST 2025
+[2025-09-07 15:58:16] STEP: Starting ETL Pipeline
+[2025-09-07 15:58:16] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:58:16] Creatiing directory 'data/raw'
+[2025-09-07 15:58:16] 'data/raw' directory already exists.
+[2025-09-07 15:58:16] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:58:16] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:58:16] Creatiing directory 'data/transformed'
+[2025-09-07 15:58:16] 'data/transformed' directory already exists.
+[2025-09-07 15:58:16] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:58:16] ERROR: Raw file not found: [2025-09-07 15:58:16] Creatiing directory 'data/raw'
+[2025-09-07 15:58:16] 'data/raw' directory already exists.
+[2025-09-07 15:58:16] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:58:16] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:58:16] Creatiing directory 'data/gold'
+[2025-09-07 15:58:16] 'data/gold' directory already exists.
+[2025-09-07 15:58:16] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:58:16] ERROR: Transformed file not found: [2025-09-07 15:58:16] Creatiing directory 'data/transformed'
+[2025-09-07 15:58:16] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:58:16] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:58:16] Creatiing directory 'data/raw'
+[2025-09-07 15:58:16] 'data/raw' directory already exists.
+[2025-09-07 15:58:16] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:58:16] ERROR: Failed to download CSV using curl.[0m
+[2025-09-07 15:58:16] ERROR: Raw file not found: [2025-09-07 15:58:16] Creatiing directory 'data/raw'
+[2025-09-07 15:58:16] 'data/raw' directory already exists.
+[2025-09-07 15:58:16] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+CURL EXIT CODE: 3
+[2025-09-07 15:58:16] ERROR: Failed to download CSV using curl.
+[2025-09-07 15:58:16] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:58:16] ETL Pipeline completed successfully at Sun Sep  7 15:58:16 BST 2025
+[2025-09-07 15:59:01] STEP: Starting ETL Pipeline
+[2025-09-07 15:59:01] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:01] Creatiing directory 'data/raw'
+[2025-09-07 15:59:01] 'data/raw' directory already exists.
+[2025-09-07 15:59:01] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:01] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:01] Attempting download with wget...
+[2025-09-07 15:59:01] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:01] Creatiing directory 'data/transformed'
+[2025-09-07 15:59:01] 'data/transformed' directory already exists.
+[2025-09-07 15:59:01] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:59:02] ERROR: Raw file not found: [2025-09-07 15:59:01] Creatiing directory 'data/raw'
+[2025-09-07 15:59:01] 'data/raw' directory already exists.
+[2025-09-07 15:59:01] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:01] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:01] Attempting download with wget...
+[2025-09-07 15:59:01] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:02] Creatiing directory 'data/gold'
+[2025-09-07 15:59:02] 'data/gold' directory already exists.
+[2025-09-07 15:59:02] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:59:02] ERROR: Transformed file not found: [2025-09-07 15:59:01] Creatiing directory 'data/transformed'
+[2025-09-07 15:59:01] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:59:01] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:59:01] Creatiing directory 'data/raw'
+[2025-09-07 15:59:01] 'data/raw' directory already exists.
+[2025-09-07 15:59:01] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:01] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:01] Attempting download with wget...
+[2025-09-07 15:59:01] ERROR: Both curl and wget failed to download the file.[0m
+[2025-09-07 15:59:02] ERROR: Raw file not found: [2025-09-07 15:59:01] Creatiing directory 'data/raw'
+[2025-09-07 15:59:01] 'data/raw' directory already exists.
+[2025-09-07 15:59:01] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:01] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:01] Attempting download with wget...
+[2025-09-07 15:59:01] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:02] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:59:02] ETL Pipeline completed successfully at Sun Sep  7 15:59:02 BST 2025
+[2025-09-07 15:59:54] STEP: Starting ETL Pipeline
+[2025-09-07 15:59:54] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:54] Creatiing directory 'data/raw'
+[2025-09-07 15:59:54] 'data/raw' directory already exists.
+[2025-09-07 15:59:54] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:54] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:54] Attempting download with wget...
+[2025-09-07 15:59:55] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:55] Creatiing directory 'data/transformed'
+[2025-09-07 15:59:55] 'data/transformed' directory already exists.
+[2025-09-07 15:59:55] STEP: TRANSFORM - Processing Data
+[2025-09-07 15:59:55] ERROR: Raw file not found: [2025-09-07 15:59:54] Creatiing directory 'data/raw'
+[2025-09-07 15:59:54] 'data/raw' directory already exists.
+[2025-09-07 15:59:54] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:54] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:54] Attempting download with wget...
+[2025-09-07 15:59:55] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:55] Creatiing directory 'data/gold'
+[2025-09-07 15:59:55] 'data/gold' directory already exists.
+[2025-09-07 15:59:55] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 15:59:55] ERROR: Transformed file not found: [2025-09-07 15:59:55] Creatiing directory 'data/transformed'
+[2025-09-07 15:59:55] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 15:59:55] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 15:59:54] Creatiing directory 'data/raw'
+[2025-09-07 15:59:54] 'data/raw' directory already exists.
+[2025-09-07 15:59:54] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:54] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:54] Attempting download with wget...
+[2025-09-07 15:59:55] ERROR: Both curl and wget failed to download the file.[0m
+[2025-09-07 15:59:55] ERROR: Raw file not found: [2025-09-07 15:59:54] Creatiing directory 'data/raw'
+[2025-09-07 15:59:54] 'data/raw' directory already exists.
+[2025-09-07 15:59:54] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 15:59:54] ERROR: Failed to download CSV using curl. Exit code: 3
+[2025-09-07 15:59:54] Attempting download with wget...
+[2025-09-07 15:59:55] ERROR: Both curl and wget failed to download the file.
+[2025-09-07 15:59:55] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 15:59:55] ETL Pipeline completed successfully at Sun Sep  7 15:59:55 BST 2025
+[2025-09-07 16:01:05] STEP: Starting ETL Pipeline
+[2025-09-07 16:01:05] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:05] Creatiing directory 'data/raw'
+[2025-09-07 16:01:05] 'data/raw' directory already exists.
+[2025-09-07 16:01:05] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:05] DEBUG: Cleaned URL length: 197
+[2025-09-07 16:01:06] Successfully downloaded CSV using curl.
+[2025-09-07 16:01:06] File verification completed successfully.
+[2025-09-07 16:01:06] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:06] Creatiing directory 'data/transformed'
+[2025-09-07 16:01:06] 'data/transformed' directory already exists.
+[2025-09-07 16:01:06] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:01:06] ERROR: Raw file not found: [2025-09-07 16:01:05] Creatiing directory 'data/raw'
+[2025-09-07 16:01:05] 'data/raw' directory already exists.
+[2025-09-07 16:01:05] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:05] DEBUG: Cleaned URL length: 197
+[2025-09-07 16:01:06] Successfully downloaded CSV using curl.
+[2025-09-07 16:01:06] File verification completed successfully.
+[2025-09-07 16:01:06] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:06] Creatiing directory 'data/gold'
+[2025-09-07 16:01:06] 'data/gold' directory already exists.
+[2025-09-07 16:01:06] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:01:06] ERROR: Transformed file not found: [2025-09-07 16:01:06] Creatiing directory 'data/transformed'
+[2025-09-07 16:01:06] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:01:06] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:01:05] Creatiing directory 'data/raw'
+[2025-09-07 16:01:05] 'data/raw' directory already exists.
+[2025-09-07 16:01:05] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:05] DEBUG: Cleaned URL length: 197
+[2025-09-07 16:01:06] Successfully downloaded CSV using curl.
+[2025-09-07 16:01:06] File verification completed successfully.
+[2025-09-07 16:01:06] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:01:06] ERROR: Raw file not found: [2025-09-07 16:01:05] Creatiing directory 'data/raw'
+[2025-09-07 16:01:05] 'data/raw' directory already exists.
+[2025-09-07 16:01:05] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:05] DEBUG: Cleaned URL length: 197
+[2025-09-07 16:01:06] Successfully downloaded CSV using curl.
+[2025-09-07 16:01:06] File verification completed successfully.
+[2025-09-07 16:01:06] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:01:06] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:01:06] ETL Pipeline completed successfully at Sun Sep  7 16:01:06 BST 2025
+[2025-09-07 16:06:35] STEP: Starting ETL Pipeline
+[2025-09-07 16:06:35] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:35] Creatiing directory 'data/raw'
+[2025-09-07 16:06:35] Created 'data/raw' directory.
+[2025-09-07 16:06:35] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:37] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:06:37] Successfully downloaded CSV using curl.
+[2025-09-07 16:06:37] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] File verification completed successfully.
+[2025-09-07 16:06:38] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] Creatiing directory 'data/transformed'
+[2025-09-07 16:06:38] Created 'data/transformed' directory.
+[2025-09-07 16:06:38] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:06:38] ERROR: Raw file not found: [2025-09-07 16:06:35] Creatiing directory 'data/raw'
+[2025-09-07 16:06:35] Created 'data/raw' directory.
+[2025-09-07 16:06:35] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:06:37] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:06:37] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:06:37] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] File verification completed successfully.
+[2025-09-07 16:06:38] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] Creatiing directory 'data/gold'
+[2025-09-07 16:06:38] Created 'data/gold' directory.
+[2025-09-07 16:06:38] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:06:38] ERROR: Transformed file not found: [2025-09-07 16:06:38] Creatiing directory 'data/transformed'
+[2025-09-07 16:06:38] Created 'data/transformed' directory.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:06:38] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:06:35] Creatiing directory 'data/raw'
+[2025-09-07 16:06:35] Created 'data/raw' directory.
+[2025-09-07 16:06:35] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:06:37] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:06:37] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:06:37] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] File verification completed successfully.
+[2025-09-07 16:06:38] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:06:38] ERROR: Raw file not found: [2025-09-07 16:06:35] Creatiing directory 'data/raw'
+[2025-09-07 16:06:35] Created 'data/raw' directory.
+[2025-09-07 16:06:35] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:06:37] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:06:37] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:06:37] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] File verification completed successfully.
+[2025-09-07 16:06:38] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:06:38] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:06:38] ETL Pipeline completed successfully at Sun Sep  7 16:06:38 BST 2025
+[2025-09-07 16:09:15] STEP: Starting ETL Pipeline
+[2025-09-07 16:09:15] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:15] Creatiing directory 'data/raw'
+[2025-09-07 16:09:15] Created 'data/raw' directory.
+[2025-09-07 16:09:15] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:09:16] Successfully downloaded CSV using curl.
+[2025-09-07 16:09:16] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] File verification completed successfully.
+[2025-09-07 16:09:16] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] Creatiing directory 'data/transformed'
+[2025-09-07 16:09:16] Created 'data/transformed' directory.
+[2025-09-07 16:09:16] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:09:16] ERROR: Raw file not found: [2025-09-07 16:09:15] Creatiing directory 'data/raw'
+[2025-09-07 16:09:15] Created 'data/raw' directory.
+[2025-09-07 16:09:15] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+DEBUG: About to call print_success
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:09:16] SUCCESS: Successfully downloaded CSV using curl.
+DEBUG: Called print_success
+[2025-09-07 16:09:16] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:09:16] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] File verification completed successfully.
+[2025-09-07 16:09:16] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] Creatiing directory 'data/gold'
+[2025-09-07 16:09:16] Created 'data/gold' directory.
+[2025-09-07 16:09:16] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:09:16] ERROR: Transformed file not found: [2025-09-07 16:09:16] Creatiing directory 'data/transformed'
+[2025-09-07 16:09:16] Created 'data/transformed' directory.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:09:16] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:09:15] Creatiing directory 'data/raw'
+[2025-09-07 16:09:15] Created 'data/raw' directory.
+[2025-09-07 16:09:15] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+DEBUG: About to call print_success
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:09:16] SUCCESS: Successfully downloaded CSV using curl.
+DEBUG: Called print_success
+[2025-09-07 16:09:16] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:09:16] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] File verification completed successfully.
+[2025-09-07 16:09:16] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:09:16] ERROR: Raw file not found: [2025-09-07 16:09:15] Creatiing directory 'data/raw'
+[2025-09-07 16:09:15] Created 'data/raw' directory.
+[2025-09-07 16:09:15] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+DEBUG: About to call print_success
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:09:16] SUCCESS: Successfully downloaded CSV using curl.
+DEBUG: Called print_success
+[2025-09-07 16:09:16] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:09:16] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] File verification completed successfully.
+[2025-09-07 16:09:16] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:09:16] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:09:17] ETL Pipeline completed successfully at Sun Sep  7 16:09:17 BST 2025
+[2025-09-07 16:11:41] STEP: Starting ETL Pipeline
+[2025-09-07 16:11:41] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:11:41] Creatiing directory 'data/raw'
+[2025-09-07 16:11:42] Created 'data/raw' directory.
+[2025-09-07 16:11:42] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:11:43] Successfully downloaded CSV using curl.
+[2025-09-07 16:11:43] Creatiing directory 'data/transformed'
+[2025-09-07 16:11:43] Created 'data/transformed' directory.
+[2025-09-07 16:11:43] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:11:43] ERROR: Raw file not found: [2025-09-07 16:11:41] Creatiing directory 'data/raw'
+[2025-09-07 16:11:42] Created 'data/raw' directory.
+[2025-09-07 16:11:42] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:11:43] Successfully downloaded CSV using curl.
+[2025-09-07 16:11:43] Creatiing directory 'data/gold'
+[2025-09-07 16:11:43] Created 'data/gold' directory.
+[2025-09-07 16:11:43] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:11:43] ERROR: Transformed file not found: [2025-09-07 16:11:43] Creatiing directory 'data/transformed'
+[2025-09-07 16:11:43] Created 'data/transformed' directory.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:11:43] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:11:41] Creatiing directory 'data/raw'
+[2025-09-07 16:11:42] Created 'data/raw' directory.
+[2025-09-07 16:11:42] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:11:43] Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:11:43] ERROR: Raw file not found: [2025-09-07 16:11:41] Creatiing directory 'data/raw'
+[2025-09-07 16:11:42] Created 'data/raw' directory.
+[2025-09-07 16:11:42] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:11:43] Successfully downloaded CSV using curl.
+[2025-09-07 16:11:43] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:11:43] ETL Pipeline completed successfully at Sun Sep  7 16:11:43 BST 2025
+[2025-09-07 16:15:38] STEP: Starting ETL Pipeline
+[2025-09-07 16:15:38] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:39] Creating directory 'data/raw'
+[2025-09-07 16:15:39] Created 'data/raw' directory.
+[2025-09-07 16:15:39] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:39] Successfully downloaded CSV using curl.
+[2025-09-07 16:15:40] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] File verification completed successfully.
+[2025-09-07 16:15:40] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] Creating directory 'data/transformed'
+[2025-09-07 16:15:40] Created 'data/transformed' directory.
+[2025-09-07 16:15:40] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:15:40] ERROR: Raw file not found: [2025-09-07 16:15:39] Creating directory 'data/raw'
+[2025-09-07 16:15:39] Created 'data/raw' directory.
+[2025-09-07 16:15:39] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:39] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:15:40] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] File verification completed successfully.
+[2025-09-07 16:15:40] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] Creating directory 'data/gold'
+[2025-09-07 16:15:40] Created 'data/gold' directory.
+[2025-09-07 16:15:40] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:15:40] ERROR: Transformed file not found: [2025-09-07 16:15:40] Creating directory 'data/transformed'
+[2025-09-07 16:15:40] Created 'data/transformed' directory.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:15:40] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:15:39] Creating directory 'data/raw'
+[2025-09-07 16:15:39] Created 'data/raw' directory.
+[2025-09-07 16:15:39] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:39] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:15:40] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] File verification completed successfully.
+[2025-09-07 16:15:40] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:15:40] ERROR: Raw file not found: [2025-09-07 16:15:39] Creating directory 'data/raw'
+[2025-09-07 16:15:39] Created 'data/raw' directory.
+[2025-09-07 16:15:39] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:39] Successfully downloaded CSV using curl.
+[1;31m✗ ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:15:40] ERROR: ERROR: Downloaded file is empty at data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] File verification completed successfully.
+[2025-09-07 16:15:40] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:15:40] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:15:40] ETL Pipeline completed successfully at Sun Sep  7 16:15:40 BST 2025
+[2025-09-07 16:17:32] STEP: Starting ETL Pipeline
+[2025-09-07 16:17:32] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:32] Creating directory 'data/raw'
+[2025-09-07 16:17:33] 'data/raw' directory already exists.
+[2025-09-07 16:17:33] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Successfully downloaded CSV using curl.
+[2025-09-07 16:17:33] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:17:33] SUCCESS: File verification completed successfully.
+[2025-09-07 16:17:33] File verification completed successfully.
+[2025-09-07 16:17:33] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Creating directory 'data/transformed'
+[2025-09-07 16:17:33] 'data/transformed' directory already exists.
+[2025-09-07 16:17:33] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:17:33] ERROR: Raw file not found: [2025-09-07 16:17:32] Creating directory 'data/raw'
+[2025-09-07 16:17:33] 'data/raw' directory already exists.
+[2025-09-07 16:17:33] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Successfully downloaded CSV using curl.
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:17:33] SUCCESS: Successfully downloaded CSV using curl.
+[1;32m✓ File verification completed successfully.[0m
+[2025-09-07 16:17:33] SUCCESS: File verification completed successfully.
+[2025-09-07 16:17:33] File verification completed successfully.
+[2025-09-07 16:17:33] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Creating directory 'data/gold'
+[2025-09-07 16:17:33] 'data/gold' directory already exists.
+[2025-09-07 16:17:33] STEP: LOAD - Loading Data to Gold Directory
+[2025-09-07 16:17:33] ERROR: Transformed file not found: [2025-09-07 16:17:33] Creating directory 'data/transformed'
+[2025-09-07 16:17:33] 'data/transformed' directory already exists.
+
+[1;34m=== TRANSFORM - Processing Data ===[0m
+[2025-09-07 16:17:33] STEP: TRANSFORM - Processing Data
+[1;31m✗ Raw file not found: [2025-09-07 16:17:32] Creating directory 'data/raw'
+[2025-09-07 16:17:33] 'data/raw' directory already exists.
+[2025-09-07 16:17:33] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Successfully downloaded CSV using curl.
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:17:33] SUCCESS: Successfully downloaded CSV using curl.
+[1;32m✓ File verification completed successfully.[0m
+[2025-09-07 16:17:33] SUCCESS: File verification completed successfully.
+[2025-09-07 16:17:33] File verification completed successfully.
+[2025-09-07 16:17:33] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv[0m
+[2025-09-07 16:17:33] ERROR: Raw file not found: [2025-09-07 16:17:32] Creating directory 'data/raw'
+[2025-09-07 16:17:33] 'data/raw' directory already exists.
+[2025-09-07 16:17:33] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:33] Successfully downloaded CSV using curl.
+[1;32m✓ Successfully downloaded CSV using curl.[0m
+[2025-09-07 16:17:33] SUCCESS: Successfully downloaded CSV using curl.
+[1;32m✓ File verification completed successfully.[0m
+[2025-09-07 16:17:33] SUCCESS: File verification completed successfully.
+[2025-09-07 16:17:33] File verification completed successfully.
+[2025-09-07 16:17:33] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:17:34] SUCCESS: ETL Pipeline completed successfully!
+[2025-09-07 16:17:34] ETL Pipeline completed successfully at Sun Sep  7 16:17:34 BST 2025
+[2025-09-07 16:19:16] STEP: Starting ETL Pipeline
+[2025-09-07 16:19:16] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:19:16] Creating directory 'data/raw'
+[2025-09-07 16:19:16] Created 'data/raw' directory.
+[2025-09-07 16:19:16] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:19:17] Successfully downloaded CSV using curl.
+[2025-09-07 16:19:17] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:19:17] SUCCESS: File verification completed successfully.
+[2025-09-07 16:19:17] File verification completed successfully.
+[2025-09-07 16:19:17] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:21:57] STEP: Starting ETL Pipeline
+[2025-09-07 16:21:57] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:21:57] Creating directory 'data/raw'
+[2025-09-07 16:21:57] Created 'data/raw' directory.
+[2025-09-07 16:21:57] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:22:00] Successfully downloaded CSV using curl.
+[2025-09-07 16:22:00] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:22:00] SUCCESS: File verification completed successfully.
+[2025-09-07 16:22:00] File verification completed successfully.
+[2025-09-07 16:22:00] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:22:59] STEP: Starting ETL Pipeline
+[2025-09-07 16:22:59] ETL Pipeline started with URL: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:22:59] Creating directory 'data/raw'
+[2025-09-07 16:22:59] Created 'data/raw' directory.
+[2025-09-07 16:22:59] Starting CSV download from: https://www.stats.govt.nz/assets/Uploads/Annual-enterprise-survey/Annual-enterprise-survey-2023-financial-year-provisional/Download-data/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:23:00] Successfully downloaded CSV using curl.
+[2025-09-07 16:23:00] SUCCESS: Successfully downloaded CSV using curl.
+[2025-09-07 16:23:00] SUCCESS: File verification completed successfully.
+[2025-09-07 16:23:00] File verification completed successfully.
+[2025-09-07 16:23:00] File saved at: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:23:01] Creating directory 'data/transformed'
+[2025-09-07 16:23:01] Created 'data/transformed' directory.
+[2025-09-07 16:23:01] STEP: TRANSFORM - Processing Data
+[2025-09-07 16:23:01] INFO: Input file: data/raw/annual-enterprise-survey-2023-financial-year-provisional.csv
+[2025-09-07 16:23:01] INFO: Output file: data/transformed/2023_year_finance.csv
+[2025-09-07 16:23:01] INFO: Original header: Year,Industry_aggregation_NZSIOC,Industry_code_NZSIOC,Industry_name_NZSIOC,Units,Variable_code,Variable_name,Variable_category,Value,Industry_code_ANZSIC06
+[2025-09-07 16:23:02] INFO: Transformed data preview (first 3 lines):
+[2025-09-07 16:23:02] SUCCESS: Transformation completed - File saved: data/transformed/2023_year_finance.csv
+[2025-09-07 16:23:02] SUCCESS: Confirmed: 2023_year_finance.csv is in the 'data/transformed' folder
