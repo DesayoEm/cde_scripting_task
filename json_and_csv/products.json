@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "LAPTOP001",
+      "name": "Business Laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "in_stock": true
+    },
+    {
+      "id": "MOUSE001",
+      "name": "Wireless Mouse",
+      "category": "Accessories",
+      "price": 29.99,
+      "in_stock": true
+    },
+    {
+      "id": "KEYBOARD001",
+      "name": "Mechanical Keyboard",
+      "category": "Accessories",
+      "price": 89.99,
+      "in_stock": false
+    }
+  ]
+}
