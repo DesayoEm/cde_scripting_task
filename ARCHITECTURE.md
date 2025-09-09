@@ -8,7 +8,7 @@ CSV Files → Bash Script → PostgreSQL → SQL Analysis → Business Results
 
 ### 1. Data Sources (Extract)
 ```
-📁 csv_files/
+csv_files/
 ├── sales_reps.csv
 ├── web_events.csv  
 ├── orders.csv
@@ -42,10 +42,10 @@ PostgreSQL Database: posey
 │
 ├── Tables Created:
 │   ├── orders (order transactions)
-│   ├── accounts (company information)  
+│   ├── accounts (company info)  
 │   ├── sales_reps (sales staff)
 │   ├── region (geographic data)
-│   └── web_events (website interactions)
+│   └── web_events (web interactions)
 │
 └── Data Types: All columns created as TEXT
 ```
