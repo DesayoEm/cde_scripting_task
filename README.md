@@ -47,9 +47,3 @@ FROM region r
 ORDER BY a.name;
 ```
 
-## To Run
-
-```bash
-# Connect to database
-psql -h localhost -U postgres -d posey
-```
